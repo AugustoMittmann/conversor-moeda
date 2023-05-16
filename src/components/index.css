@@ -1,0 +1,19 @@
+.container{
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#demo-radio-buttons-group-label{
+  margin: 10px;
+}
+
+#inputValue{
+  margin: 10px;
+}
+
+#finalValue{
+  font-weight: bold;
+}
